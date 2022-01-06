@@ -1,6 +1,8 @@
 # holidays
 German Holidays API
 
+Simple API client against https://get.api-feiertage.de
+
 ### Usage
 
 Example:
