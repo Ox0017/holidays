@@ -6,7 +6,7 @@
 
     <groupId>com.github.Ox0017.holidays</groupId>
     <artifactId>holidays-api</artifactId>
-    <version>1.10-SNAPSHOT</version>
+    <version>1.10</version>
     <packaging>jar</packaging>
 
     <name>Holidays API</name>
