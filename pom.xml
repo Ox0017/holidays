@@ -35,6 +35,14 @@
         <url>https://github.com/Ox0017/holidays</url>
     </scm>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>Ox0017</name>
+            <url>https://maven.pkg.github.com/Ox0017/holidays</url>
+        </repository>
+    </distributionManagement>
+
     <dependencies>
         <dependency>
             <groupId>org.slf4j</groupId>
